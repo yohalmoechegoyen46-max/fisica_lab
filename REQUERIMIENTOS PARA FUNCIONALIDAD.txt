@@ -1,0 +1,26 @@
+1. Requerimientos de Software
+
+ --Node.js--- v18.x o superior (se recomienda v20.x o v22.x LTS):	
+* Entorno de ejecución de JavaScript para compilar y servir la aplicación en desarrollo.	
+* LINK: nodejs.org
+
+ --npm----v9.x o superior (viene incluido automáticamente con Node.js)
+  *Gestor de paquetes para descargar las librerías del proyecto (react, lucide-react, tailwindcss, etc.).
+
+--Editor de Código----(Recomendado)	
+*---Visual Studio Code--- u otro. Para visualizar y editar los archivos del proyecto.
+
+Paso 1: Entrar a la carpeta del proyecto
+Paso 2: Abrir una PowerShell 
+Paso 3: Iniciar el servidor local de desarrollo 
+	- npm run dev
+
+*Verás una salida similar a esta:
+VITE v8.3.0  ready in 250 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://192.168.x.x:3000/
+
+Paso 4: Abrir la aplicación
+Abre tu navegador web y entra a:
+ 	- http://localhost:3000

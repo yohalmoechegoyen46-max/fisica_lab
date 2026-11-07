@@ -1,0 +1,6 @@
+{
+  "name": "FísicaLab - Portal de Simuladores",
+  "description": "Laboratorio digital interactivo de física con análisis vectorial en plano cartesiano y DCL, y simulador de Ley de Ohm y circuitos eléctricos en serie y paralelo con análisis de sobrecarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
